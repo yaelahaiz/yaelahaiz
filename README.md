@@ -2,7 +2,7 @@
 
 <img src="img/1.gif" width="100%" height="auto" alt="Engineering systems banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0f172a,100:020617&height=280&section=header&text=Aranda%20Ilham%20Zubair&fontSize=54&fontColor=00D4FF&fontAlignY=42&stroke=38BDF8&strokeWidth=1&desc=Electrical%20Engineering%20%7C%20IoT%20%26%20Embedded%20Systems%20%7C%20AI%20%26%20Digital%20Innovation&descSize=16&descAlignY=66&descAlign=50&animation=fadeIn" width="100%" alt="Aranda Ilham Zubair header"/>
+<img src="img/header.svg" width="100%" alt="Aranda Ilham Zubair header"/>
 
 <br/>
 
@@ -145,15 +145,15 @@ More details are available on my portfolio: [arndilhmzbr.engineer](https://arndi
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yaelahaiz&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=00D4FF&text_color=94A3B8&icon_color=F59E0B" width="100%" alt="GitHub stats"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=yaelahaiz&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=00D4FF&text_color=94A3B8&icon_color=F59E0B" width="100%" alt="GitHub stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaelahaiz&hide_border=true&background=020617&ring=00D4FF&fire=F59E0B&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=020617" width="100%" alt="GitHub streak stats"/>
+      <img src="https://streak-stats.demolab.com?user=yaelahaiz&hide_border=true&background=020617&ring=00D4FF&fire=F59E0B&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&stroke=020617" width="100%" alt="GitHub streak stats"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaelahaiz&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=020617&title_color=00D4FF&text_color=94A3B8" width="100%" alt="Top languages"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yaelahaiz&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=020617&title_color=00D4FF&text_color=94A3B8" width="100%" alt="Top languages"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaelahaiz&bg_color=020617&color=94A3B8&line=00D4FF&point=F59E0B&area=true&area_color=00D4FF&hide_border=true&radius=6" width="100%" alt="GitHub activity graph"/>
@@ -229,9 +229,9 @@ More details are available on my portfolio: [arndilhmzbr.engineer](https://arndi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaelahaiz/yaelahaiz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yaelahaiz/yaelahaiz/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/yaelahaiz/yaelahaiz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 

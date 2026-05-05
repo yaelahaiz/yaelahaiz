@@ -1,0 +1,50 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Aranda Ilham Zubair</title>
+  <desc id="desc">Electrical Engineering, IoT, Embedded Systems, AI, and Digital Innovation profile header</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="150" y1="40" x2="1050" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4FF"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.45"/>
+  <path d="M70 250 C190 155 320 298 470 182 C650 42 790 118 930 79 C1032 50 1112 70 1160 98" stroke="url(#cyan)" stroke-width="2" opacity="0.65"/>
+  <path d="M100 76 H275 L320 120 H900 L944 76 H1100" stroke="#00D4FF" stroke-width="2" opacity="0.72" filter="url(#glow)"/>
+  <path d="M100 244 H278 L324 200 H898 L944 244 H1100" stroke="#38BDF8" stroke-width="2" opacity="0.52"/>
+  <circle cx="178" cy="120" r="42" stroke="#00D4FF" stroke-width="2" opacity="0.82"/>
+  <circle cx="178" cy="120" r="24" stroke="#38BDF8" stroke-width="2" opacity="0.6"/>
+  <circle cx="178" cy="120" r="6" fill="#00D4FF" filter="url(#glow)"/>
+  <text x="600" y="142" text-anchor="middle" fill="#E2E8F0" font-family="Orbitron, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="1">
+    Aranda Ilham Zubair
+  </text>
+  <text x="600" y="186" text-anchor="middle" fill="#94A3B8" font-family="Share Tech Mono, Consolas, monospace" font-size="22">
+    Electrical Engineering | IoT &amp; Embedded Systems | AI &amp; Digital Innovation
+  </text>
+  <g font-family="Share Tech Mono, Consolas, monospace" font-size="15" fill="#00D4FF">
+    <text x="104" y="284">STATUS: OPEN TO COLLABORATION</text>
+    <text x="858" y="284">JAKARTA, INDONESIA</text>
+  </g>
+  <g opacity="0.75">
+    <circle cx="1026" cy="126" r="4" fill="#F59E0B"/>
+    <circle cx="1050" cy="154" r="4" fill="#00D4FF"/>
+    <circle cx="994" cy="177" r="4" fill="#38BDF8"/>
+    <path d="M1026 126 L1050 154 L994 177 Z" stroke="#334155" stroke-width="1"/>
+  </g>
+</svg>
